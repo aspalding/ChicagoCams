@@ -1,0 +1,449 @@
+[
+
+{
+
+"intid": "2020",
+"lat": "-87.69245022", 
+"lon": "41.94674866",
+"intersection": "1111 N Humboldt Blvd",
+"fullname": "Lane Tech Speed Camera 1",
+ "golive": "Nov 19, 2013",
+ "approach1": "SB",
+ "approach2": "NB",
+ "approach3": "SP"
+},
+
+{
+
+"intid": "2021",
+"lat": "-87.68819152", 
+"lon": "41.94549717",
+"intersection": "1111 N Humboldt Blvd",
+"fullname": "Lane Tech Speed Camera 2",
+ "golive": "Nov 19, 2013",
+ "approach1": "SB",
+ "approach2": "NB",
+ "approach3": "SP"
+},
+
+ 
+ {
+
+ "intid": "2022",
+ "lat": "-87.70212117023745", 
+ "lon": "41.901430911774796",
+ "intersection": "1111 N Humboldt Blvd",
+ "fullname": "Humboldt Park Speed Camera 2",
+ "golive": "Nov 19, 2013",
+ "approach1": "SB",
+ "approach2": "NB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9006",
+ "lat": "-87.67514359128938", 
+ "lon": "41.82300132296577",
+ "intersection": "2080 W Pershing Rd",
+ "fullname": "McKinley Park Speed Camera 2",
+ "golive": "Sep 7, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9020",
+ "lat": "-87.69620408862693", 
+ "lon": "41.95387526461699",
+ "intersection": "2705 W Irving Park",
+ "fullname": "Horner Park Speed Camera 2",
+ "golive": "Nov 15, 2013",
+ "approach1": "EB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9021",
+ "lat": "-87.6965965016668", 
+ "lon": "41.954092657149786",
+ "intersection": "2712 W Irving Park ",
+ "fullname": "Horner Park Speed Camera 3",
+ "golive": "Nov 15, 2013",
+ "approach1": "WB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9019",
+ "lat": "-87.69696403378589", 
+ "lon": "41.96114938287925",
+ "intersection": "2721 W Montrose",
+ "fullname": "Horner Park Speed Camera 1",
+ "golive": "Nov 15, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9011",
+ "lat": "-87.69854736482245", 
+ "lon": "41.86020911684244",
+ "intersection": "2864 W Ogden Ave",
+ "fullname": "Douglas Park Speed Camera 3",
+ "golive": "Oct 11, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9007",
+ "lat": "-87.69896237494204", 
+ "lon": "41.86658528313424",
+ "intersection": "2912 W Roosevelt Rd",
+ "fullname": "Douglas Park Speed Camera 1",
+ "golive": "Oct 5, 2013",
+ "approach1": "WB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9008",
+ "lat": "-87.69914296647906", 
+ "lon": "41.866364024167034",
+ "intersection": "2917 W Roosevelt",
+ "fullname": "Douglas Park Speed Camera 2",
+ "golive": "Oct 5, 2013",
+ "approach1": "EB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9009",
+ "lat": "-87.70480112338926", 
+ "lon": "41.9758840401294",
+ "intersection": "3034 W Foster Ave",
+ "fullname": "Legion Park Speed Camera 1",
+ "golive": "Oct 5, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9012",
+ "lat": "-87.70452234551168", 
+ "lon": "41.89932514072566",
+ "intersection": "3100 W Augusta Blvd",
+ "fullname": "Humboldt Park Speed Camera 1",
+ "golive": "Oct 11, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9000",
+ "lat": "-87.709119823", 
+ "lon": "41.764399583",
+ "intersection": "3434 W 71ST ST",
+ "fullname": "Marquette Park Speed Camera 1",
+ "golive": "Sep 6, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9003",
+ "lat": "-87.71789844857646", 
+ "lon": "41.88093818643283",
+ "intersection": "3646 W Madison St",
+ "fullname": "Garfield Park Speed Camera 1",
+ "golive": "Sep 10, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9004",
+ "lat": "-87.71816831641307", 
+ "lon": "41.87707082846323",
+ "intersection": "3655 W Jackson Blvd",
+ "fullname": "Garfield Park Speed Camera 2",
+ "golive": "Sep 10, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9005",
+ "lat": "-87.6841140261617", 
+ "lon": "41.82353114733556",
+ "intersection": "3843 S Western Blvd",
+ "fullname": "McKinley Park Speed Camera 1",
+ "golive": "Sep 7, 2013",
+ "approach1": "NB",
+ "approach2": "SB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9999",
+ "lat": "-87.73166979484374", 
+ "lon": "41.975501",
+ "intersection": "4124 W Foster Ave",
+ "fullname": "Gompers Park Speed Camera 1",
+ "golive": "Aug 26, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9024",
+ "lat": "-87.65551767517252", 
+ "lon": "41.962596548691735",
+ "intersection": "4429 N Broadway",
+ "fullname": "Challenger Park Speed Camera1",
+ "golive": "Nov 22, 2013",
+ "approach1": "null",
+ "approach2": "NB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9025",
+ "lat": "-87.6560244499908", 
+ "lon": "41.96288063517309",
+ "intersection": "4446 N Broadway",
+ "fullname": "Challenger Park Speed Camera 2",
+ "golive": "Nov 22, 2013",
+ "approach1": "SB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9017",
+ "lat": "-87.7642672642545", 
+ "lon": "41.95332954454448",
+ "intersection": "4545 W Irving Park",
+ "fullname": "Portage Park Speed Camera 1",
+ "golive": "Nov 10, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9013",
+ "lat": "-87.63373364696125", 
+ "lon": "41.66317117223548",
+ "intersection": "471 W 127th St",
+ "fullname": "Major Taylor Speed Camera 1",
+ "golive": "Oct 11, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9998",
+ "lat": "-87.728215", 
+ "lon": "41.97433265461055",
+ "intersection": "5120 N Pulaski Rd",
+ "fullname": "Gompers Park Speed Camera 2",
+ "golive": "Aug 26, 2013",
+ "approach1": "NB",
+ "approach2": "SB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9010",
+ "lat": "-87.60644477865196", 
+ "lon": "41.79770388561477",
+ "intersection": "5330 Cottage Grove",
+ "fullname": "Washington Park Speed Camera 1",
+ "golive": "Oct 5, 2013",
+ "approach1": "NB",
+ "approach2": "SB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9023",
+ "lat": "-87.68415735542791", 
+ "lon": "41.792761119965434",
+ "intersection": "5520 S Western",
+ "fullname": "Gage Park Speed Camera 2",
+ "golive": "Nov 22, 2013",
+ "approach1": "NB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9022",
+ "lat": "-87.68385704739886", 
+ "lon": "41.79252199331773",
+ "intersection": "5529 S Western",
+ "fullname": "Gage Park Speed Camera 1",
+ "golive": "Nov 22, 2013",
+ "approach1": "SB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9015",
+ "lat": "-87.62146289865515", 
+ "lon": "41.72165713317433",
+ "intersection": "57 E 95th St",
+ "fullname": "Abbott Park Speed Camera 2",
+ "golive": "Oct 25, 2013",
+ "approach1": "WB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9016",
+ "lat": "-87.7703695017756", 
+ "lon": "41.87718940463045",
+ "intersection": "5816 W Jackson",
+ "fullname": "Columbus Park Speed Camera 1",
+ "golive": "Nov 10, 2013",
+ "approach1": "EB",
+ "approach2": "WB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9014",
+ "lat": "-87.62135432849777", 
+ "lon": "41.72187849819265",
+ "intersection": "62 E 95th St",
+ "fullname": "Abbott Park Speed Camera 1",
+ "golive": "Oct 12, 2013",
+ "approach1": "EB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9026",
+ "lat": "-87.62744787497319", 
+ "lon": "41.873849598744286",
+ "intersection": "629 State St",
+ "fullname": "Jones HS Speed Camera 1",
+ "golive": "Nov 25, 2013",
+ "approach1": "NB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9027",
+ "lat": "-87.62774075943143", 
+ "lon": "41.87382420497741",
+ "intersection": "630 State St",
+ "fullname": "Jones HS Speed Camera 2",
+ "golive": "Nov 25, 2013",
+ "approach1": "SB",
+ "approach2": "null",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9018",
+ "lat": "-87.68980290863908", 
+ "lon": "42.00025951144952",
+ "intersection": "6523 N Western",
+ "fullname": "Warren Park Speed Camera",
+ "golive": "Nov 10, 2013",
+ "approach1": "NB",
+ "approach2": "SB",
+ "approach3": "SP"
+ },
+
+
+ {
+
+ "intid": "9001",
+ "lat": "-87.70305895795853", 
+ "lon": "41.769106296454154",
+ "intersection": "6824  S Kedzie Ave",
+ "fullname": "Marquette Park Speed Camera 2",
+ "golive": "Sep 6, 2013",
+ "approach1": "SB",
+ "approach2": " ",
+ "approach3": "SP"
+ }
+ 
+ ]

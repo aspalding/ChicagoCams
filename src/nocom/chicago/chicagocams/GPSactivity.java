@@ -114,7 +114,7 @@ public class GPSactivity extends Activity implements LocationListener, OnInitLis
 	     
 	     
 	    if(currentLocation.distanceTo(myModel.getNearest()) < 225){
-			if(said != true){
+            if(said != true){
 	    		String seriousWarning = "You are approximately one block from a speed camera. You are traveling at "
 	    	 		+ Math.round(speed) + " miles per hour.";
 	    	
@@ -128,18 +128,18 @@ public class GPSactivity extends Activity implements LocationListener, OnInitLis
 	    	Paint paintWarn = new Paint();
 	    	paintWarn.setColor(Color.RED);
 	 		
-	 		canvas.drawCircle(x, y, radius, paintWarn);
+            canvas.drawCircle(x, y, radius, paintWarn);
 	    }
 	    
 	    else{
-	    	warningTxt.setTextColor(Color.WHITE);
-	    	 
-	    	Paint paint = new Paint();
-	 		paint.setColor(Color.GREEN);
-	 		
-	 		canvas.drawCircle(x, y, radius, paint);
-	 		
-	 		said = false;
+            warningTxt.setTextColor(Color.WHITE);
+
+            Paint paint = new Paint();
+            paint.setColor(Color.GREEN);
+
+            canvas.drawCircle(x, y, radius, paint);
+
+            said = false;
 	    }
 	    
 	    warningTxt.setText(myModel.getNearest().getProvider() + "\nTo nearest speed camera: " + String.valueOf(currentLocation.distanceTo(myModel.getNearest())));
